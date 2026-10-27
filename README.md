@@ -85,7 +85,7 @@ portfolio/
 
 - **GitHub:** [@m18001778-cell](https://github.com/18001778-cell)
 - **Email:** [pb9266583@gmail.com](mailto:pb9266583@gmail.com)
-- **Portfolio:** [portfolio-25bcon2423.vercel.app](https://portfolio-25bcon2423.vercel.app/)
+- **Portfolio:** [portfolio-25bcon2423.vercel.app](https://portfolio25bcon2423.vercel.app/)
 
 ---
 
