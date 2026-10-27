@@ -1,8 +1,8 @@
-# Personal Portfolio — Pulkit Bansal
+# Personal Portfolio — Aditya Rathore
 
 A personal portfolio website showcasing my background as a Computer Science Engineering student at JECRC University, Jaipur, Rajasthan, India. It highlights my technical skills, programming projects, and interest in software development.
 
-**Live Website:** [View My Portfolio](https://portfolio-25bcon1037.vercel.app/)
+**Live Website:** [View My Portfolio](https://portfolio-25bcon2423.vercel.app/)
 
 ## Features
 
