@@ -51,7 +51,7 @@ portfolio/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aditya25bcon/portfolio.git
+   git clone https://github.com/m18001778-cell/Portfolio_25bcon2423/portfolio.git
    ```
 
 2. Open the project folder:
